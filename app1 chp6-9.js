@@ -1,0 +1,12 @@
+var a = +prompt("Enter any number a : ");
+document.write("Result : " + "<br>" );
+document.write("The value of a is : " + a + "<br>");
+document.write("..........................................................." + "<br>");
+document.write("The value of ++a is : " + ++a + "<br>");
+document.write("Now the value of a is : " + a + "<br>");
+document.write("The value of a++ is : " + a++ + "<br>");
+document.write("Now the value of a is : " + a + "<br>");
+document.write("The value of --a is : " + --a + "<br>");
+document.write("Now the value of a is : " + a + "<br>");
+document.write("The value of a-- is : " + a-- + "<br>");
+document.write("Now the value of a is : " + a + "<br>");
